@@ -1,2 +1,2 @@
 #What is this projct
-This is a web app to showcase python projects.
+This is a web app to showcase my python projects.
